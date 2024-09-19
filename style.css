@@ -1,0 +1,33 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    width: 70ch;
+    max-width: 100%;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    background-color: beige;
+    line-height: 1.5
+}
+p:first-of-type{
+    font-weight: bold;
+    font-size: 100%;
+}
+h1 { font-family:"Peralta", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 350%;
+}
+
+h2 {font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.link{
+    background-color: rgb(226, 113, 113);
+    padding: 22px;
+    font-style:bold;
+    border-radius: 100px;
+    color:rgb(39, 55, 44);
+    margin: 20px;
+}
